@@ -11,5 +11,3 @@ Run the test suite and make sure that it succeeds.
 Submit your solution and check it at the website.
 If everything goes well, you will be ready to fetch your first real exercise.
 =#
-
-println("Hello, World!")
